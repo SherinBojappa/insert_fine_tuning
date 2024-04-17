@@ -1,0 +1,4 @@
+checkpoints/
+sft_model/
+wandb/
+tmp_trainer/
